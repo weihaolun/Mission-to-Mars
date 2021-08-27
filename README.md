@@ -1,4 +1,4 @@
-# Mission-to-Mars with Web Scraping
+# Mission to Mars with Web Scraping
 
 ### Background
 
